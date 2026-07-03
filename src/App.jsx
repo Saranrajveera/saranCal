@@ -147,7 +147,7 @@ function App() {
       alignItems: 'center', 
       justifyContent: 'center', 
       padding: '16px',
-      background: 'linear-gradient(to bottom right, #0f172a, #581c87, #0f172a)'
+      background: 'linear-gradient(to bottom right, #f54251, #581c87, #0f172a)'
     }}>
       <div style={{ width: '100%', maxWidth: '400px' }}>
         <div style={{
